@@ -1,0 +1,17 @@
+h1 {
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: navy;
+}
+
+ol {
+    width: 210px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    text-align: center;
+}
